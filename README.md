@@ -1,12 +1,12 @@
-# PyBotv2.0
+# PyBotv2.1 Beta [Full-AI Integration]
 
 Facebook Messenger Bot Using [FB Chat](https://fbchat.readthedocs.io/en/stable/index.html). Now with new integrated APIs to enhance user experience.
 
 ## Goals 📝
 
-- [x] Integrate OpenAI (GPT) in MessBotv2
-- [x] Integrate APIs in MessBotv2 
-- [x] Add More Details and Depth to MessBotv2
+- [ ] Integrate Bard
+- [ ] Integrate BlackBox
+- [ ] Create Organized Logs
 
 ## Contribution ✔️
 
